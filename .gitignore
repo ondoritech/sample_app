@@ -1,0 +1,12 @@
+.bundle
+db/*.sqlite3
+log/*.log
+*.log
+tmp/**/*
+tmp/*
+Gemgile.lock
+doc/api
+doc/app
+*.swp
+*_
+.DS_Store
